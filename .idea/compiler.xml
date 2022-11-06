@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
+        </processorPath>
+        <module name="HyperMetro.HyperMetro-task.main" />
+        <module name="HyperMetro.HyperMetro-task-build-generated-sources-headers-java.main" />
+        <module name="HyperMetro.HyperMetro-task-build-reports-tests.test" />
+        <module name="HyperMetro.HyperMetro-task-build-classes-java.test" />
+        <module name="HyperMetro.util.test" />
+        <module name="HyperMetro.HyperMetro-task-build-test-results.main" />
+        <module name="HyperMetro.HyperMetro-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="HyperMetro.HyperMetro-task-build-classes-java.main" />
+        <module name="HyperMetro.HyperMetro-task-build-test-results.test" />
+        <module name="HyperMetro.HyperMetro-task-build-reports-tests.main" />
+        <module name="HyperMetro.HyperMetro-task-build-tmp.test" />
+        <module name="HyperMetro.HyperMetro-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="HyperMetro.util.main" />
+        <module name="HyperMetro.HyperMetro-task-build-tmp.main" />
+        <module name="HyperMetro.HyperMetro-task.test" />
+        <module name="HyperMetro.HyperMetro-task-build-generated-sources-headers-java.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>
