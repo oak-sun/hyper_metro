@@ -246,6 +246,6 @@ files:
 - name: test/samara.json
   visible: false
   learner_created: false
-feedback_link: https://hyperskill.org/projects/120/stages/649/implement#comment
+feedback_link: https://hyperskill.org/learn/step/10342#comment
 status: Solved
 record: 1
